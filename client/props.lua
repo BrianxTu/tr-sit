@@ -233,6 +233,6 @@ Config.Sitable = {
 	prop_roller_car_02 			= { scenario = 'PROP_HUMAN_SEAT_BENCH', verticalOffset = 0.5, forwardOffset = 0.0, sideOffset = 0.0, rotationOffset = 0.0},
 
 	-- CUSTOM
-	v_ret_gc_chair02			= { scenario = 'PROP_HUMAN_SEAT_BENCH', verticalOffset = 0.5, forwardOffset = 0.0, sideOffset = 0.0, rotationOffset = 0.0},
-	v_serv_ct_chair02			= { scenario = 'PROP_HUMAN_SEAT_BENCH', verticalOffset = 0.5, forwardOffset = 0.0, sideOffset = 0.0, rotationOffset = 0.0},
+	v_ret_gc_chair02			= { scenario = 'PROP_HUMAN_SEAT_BENCH', verticalOffset = 0.0, forwardOffset = 0.0, sideOffset = 0.0, rotationOffset = 0.0},
+	v_serv_ct_chair02			= { scenario = 'PROP_HUMAN_SEAT_BENCH', verticalOffset = 0.0, forwardOffset = 0.0, sideOffset = 0.0, rotationOffset = 0.0},
 }
